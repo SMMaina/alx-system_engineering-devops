@@ -14,3 +14,4 @@ find file type
 create symbolic link
 copying HTML files
 
+delete files further
