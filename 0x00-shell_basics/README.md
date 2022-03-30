@@ -4,3 +4,4 @@ change directory
 list in long format
 list hidden files
 list all files in long format including IDs
+create directory
