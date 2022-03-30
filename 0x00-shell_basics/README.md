@@ -8,3 +8,4 @@ create directory
 move file across directories
 delete file
 delete directory
+change directory to previous one
