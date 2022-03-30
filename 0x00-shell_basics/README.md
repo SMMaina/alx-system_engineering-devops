@@ -15,3 +15,4 @@ create symbolic link
 copying HTML files
 
 delete files further
+creatinga directory tree
