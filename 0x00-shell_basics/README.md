@@ -17,3 +17,4 @@ copying HTML files
 delete files further
 creatinga directory tree
 list files and directories
+magic file
