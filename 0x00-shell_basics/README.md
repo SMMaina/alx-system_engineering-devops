@@ -12,3 +12,4 @@ change directory to previous one
 list files further
 find file type
 create symbolic link
+copying HTML files
