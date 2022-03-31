@@ -4,3 +4,4 @@ user groups
 change file ownership
 creating empty file
 adding execute permission
+multiple permissions
