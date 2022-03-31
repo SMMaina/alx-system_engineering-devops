@@ -5,3 +5,4 @@ change file ownership
 creating empty file
 adding execute permission
 multiple permissions
+execute permissions to all
