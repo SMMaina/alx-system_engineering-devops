@@ -9,3 +9,4 @@ execute permissions to all
 other users permissions
 more multiple permissions
 mirroring concept
+directory permissions
