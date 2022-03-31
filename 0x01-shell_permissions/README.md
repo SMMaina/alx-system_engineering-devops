@@ -13,3 +13,4 @@ directory permissions
 directory with permissions
 changing group ownership
 changing owner and group owner
+changing ownership of a symbolic link
