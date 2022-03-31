@@ -12,3 +12,4 @@ mirroring concept
 directory permissions
 directory with permissions
 changing group ownership
+changing owner and group owner
