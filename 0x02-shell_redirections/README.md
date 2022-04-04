@@ -9,3 +9,4 @@ creating file
 redirection
 duplication
 deleting all files in directory
+counting directories
