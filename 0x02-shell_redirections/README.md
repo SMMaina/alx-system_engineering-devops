@@ -15,3 +15,4 @@ Using uniq
 using grep
 display patterns
 grep command
+not with bin pattern
