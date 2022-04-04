@@ -14,3 +14,4 @@ sorting files
 Using uniq
 using grep
 display patterns
+grep command
