@@ -8,3 +8,4 @@ displaying specific lines
 creating file
 redirection
 duplication
+deleting all files in directory
