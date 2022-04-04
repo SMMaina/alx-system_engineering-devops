@@ -7,3 +7,4 @@ firstlines
 displaying specific lines
 creating file
 redirection
+duplication
