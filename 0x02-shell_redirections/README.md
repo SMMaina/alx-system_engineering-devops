@@ -6,3 +6,4 @@ listing last lines
 firstlines
 displaying specific lines
 creating file
+redirection
