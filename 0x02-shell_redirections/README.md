@@ -12,3 +12,4 @@ deleting all files in directory
 counting directories
 sorting files
 Using uniq
+using grep
