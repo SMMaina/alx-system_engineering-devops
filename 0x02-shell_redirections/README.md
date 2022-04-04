@@ -18,3 +18,4 @@ grep command
 not with bin pattern
 usinf tr command
 removing characters
+reversing
