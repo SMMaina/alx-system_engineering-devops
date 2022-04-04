@@ -4,3 +4,4 @@ displaying file
 display mutiple files
 listing last lines
 firstlines
+displaying specific lines
