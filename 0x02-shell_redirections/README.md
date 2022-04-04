@@ -3,3 +3,4 @@ displaying a smiley face
 displaying file
 display mutiple files
 listing last lines
+firstlines
