@@ -16,3 +16,4 @@ using grep
 display patterns
 grep command
 not with bin pattern
+usinf tr command
