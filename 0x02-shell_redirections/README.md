@@ -13,3 +13,4 @@ counting directories
 sorting files
 Using uniq
 using grep
+display patterns
