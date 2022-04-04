@@ -23,3 +23,4 @@ using cut
 only letters
 displaying empty files
 listing files
+cutting and pastying
