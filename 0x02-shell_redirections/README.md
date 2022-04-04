@@ -21,3 +21,4 @@ removing characters
 reversing
 using cut
 only letters
+displaying empty files
