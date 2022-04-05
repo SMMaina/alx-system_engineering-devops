@@ -5,3 +5,4 @@ counting directories in PATH
 displaying environment variables
 listing all variables
 creating local variable
+creating global variable
