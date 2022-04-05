@@ -13,3 +13,4 @@ binary to decimal
 various letter combinations
 printing value with two decimal places
 convert to hexadecimal
+rot13
