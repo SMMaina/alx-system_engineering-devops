@@ -14,3 +14,4 @@ various letter combinations
 printing value with two decimal places
 convert to hexadecimal
 rot13
+printing lines with odd numbers
