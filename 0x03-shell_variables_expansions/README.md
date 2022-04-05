@@ -4,3 +4,4 @@ adding directory to PATH
 counting directories in PATH
 displaying environment variables
 listing all variables
+creating local variable
