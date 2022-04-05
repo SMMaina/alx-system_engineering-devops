@@ -9,3 +9,4 @@ creating global variable
 adding values and variables
 dividing two variables
 dividing and displaying two variables
+binary to decimal
